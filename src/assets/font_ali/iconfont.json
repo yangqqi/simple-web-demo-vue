@@ -1,0 +1,240 @@
+{
+  "id": "1743332",
+  "name": "仓储",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3051206",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3675852",
+      "name": "zhcc_合并显示",
+      "font_class": "zhcc_hebingxianshishezhi",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "3675853",
+      "name": "zhcc_收起",
+      "font_class": "zhcc_shouqi",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "3751207",
+      "name": "zhcc_提单",
+      "font_class": "zhcc_tidan",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "3751208",
+      "name": "zhcc_提示",
+      "font_class": "zhcc_tishi",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "3905967",
+      "name": "zhcc_向上箭头1",
+      "font_class": "zhcc_xiangshangjiantou",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "3905968",
+      "name": "zhcc_向下箭头1",
+      "font_class": "zhcc_xiangxiajiantou1",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "3905969",
+      "name": "zhcc_选中图标",
+      "font_class": "zhcc_xuanzhongtubiao",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "3905970",
+      "name": "zhcc_更多",
+      "font_class": "zhcc_gengduo",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "3968154",
+      "name": "zhcc_减号",
+      "font_class": "zhcc_jianhao",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "3968155",
+      "name": "zhcc_加号",
+      "font_class": "zhcc_jiahao",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "3972783",
+      "name": "zhcc_删除s",
+      "font_class": "zhcc_shanchus",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "3286096",
+      "name": "zhcc_出库",
+      "font_class": "zhcc_chuku",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "3286097",
+      "name": "zhcc_过户",
+      "font_class": "zhcc_guohu",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "3286098",
+      "name": "zhcc_入库",
+      "font_class": "zhcc_ruku",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "3286099",
+      "name": "zhcc_查询",
+      "font_class": "zhcc_chaxun",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "3333549",
+      "name": "zhcc_向上",
+      "font_class": "zhcc_xiangshang",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "3333550",
+      "name": "zhcc_向下",
+      "font_class": "zhcc_xiangxia",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "3333551",
+      "name": "zhcc_删除",
+      "font_class": "zhcc_shanchu",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "3346243",
+      "name": "zhcc_批量",
+      "font_class": "zhcc_piliang",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "3346244",
+      "name": "zhcc_新增",
+      "font_class": "zhcc_xinzeng",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "3355152",
+      "name": "zhcc_删除1",
+      "font_class": "zhcc_shanchu1",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "3355153",
+      "name": "zhcc_选中",
+      "font_class": "zhcc_xuanzhong",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "3355154",
+      "name": "zhcc_选择",
+      "font_class": "zhcc_xuanze",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "3355155",
+      "name": "zhcc_挑选物资",
+      "font_class": "zhcc_tiaoxuanwuzi",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "3368398",
+      "name": "zhcc_向下箭头",
+      "font_class": "zhcc_xiangxiajiantou",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "3381526",
+      "name": "zhcc_向右箭头",
+      "font_class": "zhcc_xiangyoujiantou",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "3407278",
+      "name": "zhcc_手机号",
+      "font_class": "zhcc_shoujihao",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "3407280",
+      "name": "zhcc_密码",
+      "font_class": "zhcc_mima",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "3450582",
+      "name": "zhcc_用户名",
+      "font_class": "zhcc_yonghuming",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "3564689",
+      "name": "zhcc_报表",
+      "font_class": "zhcc_baobiao",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "3675851",
+      "name": "zhcc_展开",
+      "font_class": "zhcc_zhankai",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "14022542",
+      "name": "zhcc_向右箭头",
+      "font_class": "zhcc_xiangzuojiantou",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    }
+  ]
+}

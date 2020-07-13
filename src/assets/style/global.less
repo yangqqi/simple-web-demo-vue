@@ -1,0 +1,53 @@
+html,
+body {
+    font-family: Roboto, San Francisco, 'Helvetica Neue', Helvetica, Arial, PingFangSC-Light, 'Hiragina Sans GB', 'WenQuanYi Micro Hei', 'microsoft yahei ui', 'microsoft yahei', sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    width: 100vw;
+    min-height: 100vh;
+    box-sizing: border-box;
+    background: #ededed;
+}
+
+div {
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.weui-form {
+    padding: 0 !important;
+}
+
+.weui-form__control-area {
+    flex: 0 !important;
+}
+
+.weui-media-box__info {
+    .weui-media-box__info__meta {
+        padding-top: 2px;
+    }
+}
+
+.gl-green {
+    color: #309d68 !important;
+}
+
+.gl-orange {
+    color: #fd8700 !important;
+}
+
+.gl-blue {
+    color: #28bfff !important;
+}
+
+.gl-purple {
+    color: #6a6bff !important;
+}
+
+.gl-required {
+    &::after {
+        content: '*';
+        padding-left: 4px;
+        color: red;
+    }
+}
